@@ -1,11 +1,11 @@
-### Bonjour!! This is Aastha Singh's Github Profile. 👋
+### Bonjour!! Hola!! Nǐn hǎo!! This is Aastha Singh's Github Profile. 👋
 
 
 - 🔭 I’m currently working on Exploring New Technologies
 - 🌱 I’m currently learning Data Science & Data Mining
 - 👯 I’m looking to collaborate on Anything 
 - 🤔 I’m looking for help with Data Science & Internships related to this field
-- 💬 Ask me about 
+- 💬 Ask me about ----------
       * Python, C++, Java, JavaScript
       * Machine Learning
       * Data Analytics
@@ -13,7 +13,7 @@
       * Data Structure
       * Course recommendations related to a Particular field you wanna know about.
       * Contact me through my e-mail for simpler codes for Problems on Hackerrank & HackerEarth in Python language.
-- 📫 How to reach me: 
+- 📫 How to reach me --------
       * E-mail    -- aasthas114@gmail.com
       * LinkedIn  -- https://www.linkedin.com/in/aastha-singh-438b13190/
       * Instagram -- https://www.instagram.com/_infinite_soul_25_/?hl=en
