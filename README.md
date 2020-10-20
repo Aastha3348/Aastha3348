@@ -7,8 +7,11 @@
 - 🤔 I’m looking for help with Data Science & Internships related to this field
 - 💬 Ask me about ----------
 Markup : * Bullet list
-      - Python, C++, Java, JavaScript
-      - Machine Learning
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+      * Python, C++, Java, JavaScript
+      * Machine Learning
       - Data Analytics
       - Algorithms
       - Data Structure
