@@ -1,16 +1,23 @@
-### Hi there 👋
+### Bonjour!! This is Aastha Singh's Github Profile. 👋
 
-<!--
-**Aastha3348/Aastha3348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Exploring New Technologies
+- 🌱 I’m currently learning Data Science & Data Mining
+- 👯 I’m looking to collaborate on Anything 
+- 🤔 I’m looking for help with Data Science & Internships related to this field
+- 💬 Ask me about 
+      * Python, C++, Java, JavaScript
+      * Machine Learning
+      * Data Analytics
+      * Algorithms
+      * Data Structure
+      * Course recommendations related to a Particular field you wanna know about.
+      * Contact me through my e-mail for simpler codes for Problems on Hackerrank & HackerEarth in Python language.
+- 📫 How to reach me: 
+      * E-mail    -- aasthas114@gmail.com
+      * LinkedIn  -- https://www.linkedin.com/in/aastha-singh-438b13190/
+      * Instagram -- https://www.instagram.com/_infinite_soul_25_/?hl=en
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact:  I write poems, blogs, articles & narratives. 
+                In my free time I engage myself into creating new Graphic Designing Projects.
 -->
