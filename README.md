@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on Anything 
 - 🤔 I’m looking for help with Data Science & Internships related to this field
 - 💬 Ask me about ----------
+Markup : * Bullet list
       - Python, C++, Java, JavaScript
       - Machine Learning
       - Data Analytics
