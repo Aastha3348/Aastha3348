@@ -6,17 +6,14 @@
 - 👯 I’m looking to collaborate on Anything 
 - 🤔 I’m looking for help with Data Science & Internships related to this field
 - 💬 Ask me about ----------
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+/*literal asterisks*/               
       * Python, C++, Java, JavaScript
       * Machine Learning
-      - Data Analytics
-      - Algorithms
-      - Data Structure
-      - Course recommendations related to a Particular field you wanna know about.
-      - Contact me through my e-mail for simpler codes for Problems on Hackerrank & HackerEarth in Python language.
+      * Data Analytics
+      * Algorithms
+      * Data Structure
+      * Course recommendations related to a Particular field you wanna know about.
+      * Contact me through my e-mail for simpler codes for Problems on Hackerrank & HackerEarth in Python language.
 - 📫 How to reach me --------
       - E-mail    -- aasthas114@gmail.com
       - LinkedIn  -- https://www.linkedin.com/in/aastha-singh-438b13190/
