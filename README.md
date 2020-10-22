@@ -1,4 +1,4 @@
-### Bonjour!! Hola!! Nǐn hǎo!! This is Aastha Singh's Github Profile. 👋
+### Bonjour !! Hola !! Nǐn hǎo !! This is Aastha Singh's Github Profile. 👋
 
 
 - 🔭 I’m currently working on Exploring New Technologies
