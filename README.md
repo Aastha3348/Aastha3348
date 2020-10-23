@@ -1,5 +1,7 @@
-### Bonjour !! Hola !! Nǐn hǎo !! This is Aastha Singh's Github Profile. 👋
+<img src = "https://user-images.githubusercontent.com/60552193/97021682-c6c12800-1570-11eb-879a-c4ac395efdf5.gif" >
 
+
+### Bonjour !! Hola !! Nǐn hǎo !! This is Aastha Singh's Github Profile. 👋
 
 - 🔭 I’m currently working on Exploring New Technologies
 - 🌱 I’m currently learning Data Science & Data Mining
