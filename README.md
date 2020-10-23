@@ -24,4 +24,4 @@
   * I write poems, blogs, articles & narratives. 
   * In my free time I engage myself into creating new Graphic Designing Projects.
 -->
-<img src = "https://github-readme-stats.vercel.app/api?username=Aastha3348&&show_icons=true&title_color=1BE8E1&icon_color=BF19D8&text_color=BEBE0E&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api?username=Aastha3348&&show_icons=true&title_color=03FCFA&icon_color=7B03F9&text_color=C8FC03&bg_color=020D0D">
